@@ -1,0 +1,4 @@
+RENCANA SAYAA KE DEPANNYA
+
+- mempeelajari lebih dalam tentang git & github
+- dilanjut dengan pemahaman dan prakterknya
