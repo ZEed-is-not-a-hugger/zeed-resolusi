@@ -1,4 +1,5 @@
 RENCANA SAYAA KE DEPANNYA
 
 - mempeelajari lebih dalam tentang git & github
+  * semoga aja bisa langsung faham dengan sekali lihat
 - dilanjut dengan pemahaman dan prakterknya
